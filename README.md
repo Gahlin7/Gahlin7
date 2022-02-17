@@ -1,6 +1,6 @@
 - Hi, I’m @Gregor
 - I’m interested in cyber security
-- I’m currently learning java and python
+- I’m currently learning java, python and internet technologies (css, js, php)
 - I’m looking to collaborate on fun, smaller projects to learn the ins and outs of java programming
 
 <!---
